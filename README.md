@@ -12,7 +12,7 @@ This project performs end-to-end data analysis on multi-source sales data.
 ## Tools Used
 - Python
 - Pandas, NumPy
-- Matplotlib, Seaborn
+- Matplotlib
 - Jupyter Notebook
 
 ## Key Insights
