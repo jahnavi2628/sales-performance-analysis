@@ -24,8 +24,9 @@ This project performs end-to-end data analysis on multi-source sales data.
 - Jupyter Notebook
 
 ## Key Insights
-- Region-wise and category-wise revenue analysis
-- Top-performing products
-- Monthly sales trends
-- Discount impact on revenue
+- Technology products (especially Laptops) generate the highest revenue
+- South region contributes the maximum sales
+- Moderate discounts yield better revenue than extreme discounts
+- Seasonal patterns observed across months
+
 
